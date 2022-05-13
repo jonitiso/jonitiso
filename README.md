@@ -6,10 +6,4 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/jonitiso"></a>
-</p>
-
-Last Edited on: 08/16/2021
+Last Edited on: 2022-05-13
